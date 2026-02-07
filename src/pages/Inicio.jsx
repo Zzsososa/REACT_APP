@@ -7,7 +7,7 @@ const Inicio = () => {
             <div className="bg-white p-8 rounded-lg shadow-lg max-w-sm w-full">
                 <div className="w-32 h-32 bg-gray-200 rounded-lg mx-auto mb-4 flex items-center justify-center overflow-hidden border-4 border-blue-500 shadow-md">
                     <img
-                        src="/foto_perfil.jpg"
+                        src="/foto_perfil.png"
                         alt="Foto Personal Victor"
                         className="w-full h-full object-cover"
                         onError={(e) => {
